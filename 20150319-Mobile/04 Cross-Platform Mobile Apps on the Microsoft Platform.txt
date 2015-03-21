@@ -1,0 +1,1 @@
+I used no presentation. Instead I demoed the TinderCross application. See here: https://github.com/msdxhu/xamarin-tindercross
